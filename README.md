@@ -1,4 +1,4 @@
-🛡️ Jane Doe: Cybersecurity & Cloud Security Specialist
+Michael Thielemans: Cybersecurity & Cloud Security Specialist
 ⚡ Professional Summary & Tagline
 Building defensible architectures. Specializing in proactive threat modeling, robust security controls, and automation using Python.
 
@@ -6,16 +6,8 @@ I am a results-driven Cybersecurity Specialist dedicated to reducing organizatio
 
 💼 Core Expertise
 Domain
-
 Key Tools & Technologies
 
-Cloud Security
-
-AWS (IAM, Security Hub, Lambda), Azure (Sentinel, Key Vault), GCP (Resource Manager), Terraform, CloudFormation
-
-Application Security
-
-SAST/DAST (SonarQube, Bandit), vulnerability management platforms, Secure Code Review, API Security
 
 Penetration Testing
 
@@ -81,7 +73,5 @@ Contributor to OWASP project documentation (specifically focused on API Security
 I am open to discussions on infrastructure hardening, threat intelligence, security architecture design, and collaboration on open-source security tools. Whether you're interested in partnership opportunities or simply talking about the latest zero-day, feel free to reach out.
 
 Email: jane.doe@example.com
-
 LinkedIn: linkedin.com/in/janedoe-security
-
-GitHub: github.com/janedoe
+GitHub: github.com/michaelthielemans
